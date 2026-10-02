@@ -30,18 +30,20 @@ My work sits at the intersection of design, technology and user experience.
 <!-- HTML · CSS · JavaScript · Bootstrap -->
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat&logo=php&logoColor=white)
 
 **CMS & eCommerce**
 <!-- Joomla · J2Commerce · OpenCart · WordPress · WooCommerce -->
 
-![Joomla](https://img.shields.io/badge/Joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
 ![J2Commerce](https://img.shields.io/badge/J2Commerce-2C3E50?style=flat)
 ![OpenCart](https://img.shields.io/badge/OpenCart-23A8E0?style=flat&logo=opencart&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/woo.svg?style=flat&logo=woocommerce&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-873EFF?style=flat&logo=woo&logoColor=white)
 
 **Digital Platforms**
 
@@ -57,6 +59,7 @@ My work sits at the intersection of design, technology and user experience.
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat&logo=microsoftcopilot&logoColor=white)
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat&logo=google&logoColor=white)
 
@@ -68,6 +71,7 @@ My work sits at the intersection of design, technology and user experience.
 ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 
 ## What I Enjoy Building
 
