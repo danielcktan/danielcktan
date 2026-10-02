@@ -1,12 +1,6 @@
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  DANIEL TAN                                                  │
-│  Web Design · Front-end Development · UX/UI · Accessibility  │
-│                                                              │
-│                                      Design → Build → Refine │
-└──────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="assets/danielcktan-github-banner.jpg" alt="Daniel Tan | Web Design, Front-end Development, UX/UI and Accessibility">
+</p>
 
 # Hi, I’m Daniel 👋
 ### Web Designer & Front-end Developer
