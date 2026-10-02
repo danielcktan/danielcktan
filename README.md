@@ -29,10 +29,10 @@ My work sits at the intersection of design, technology and user experience.
 **Web & Front-end**
 <!-- HTML · CSS · JavaScript · Bootstrap -->
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)]
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **CMS & eCommerce**
 <!-- Joomla · J2Commerce · OpenCart · WordPress · WooCommerce -->
