@@ -37,12 +37,11 @@ My work sits at the intersection of design, technology and user experience.
 **CMS & eCommerce**
 <!-- Joomla · J2Commerce · OpenCart · WordPress · WooCommerce -->
 
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white)
 ![J2Commerce](https://img.shields.io/badge/J2Commerce-2C3E50?style=flat)
 ![OpenCart](https://img.shields.io/badge/OpenCart-23A8E0?style=flat&logo=opencart&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/Woo.svg?style=flat&logo=woocommerce&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/woo.svg?style=flat&logo=woocommerce&logoColor=white)
 
 **Digital Platforms**
 
