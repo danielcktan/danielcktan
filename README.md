@@ -33,24 +33,46 @@ My work sits at the intersection of design, technology and user experience.
 ### A selection of technologies and tools I use across design, development and digital workflows.
 
 **Web & Front-end**
+<!-- HTML · CSS · JavaScript · Bootstrap -->
 
-HTML · CSS · JavaScript · Bootstrap
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **CMS & eCommerce**
+<!-- Joomla · J2Commerce · OpenCart · WordPress · WooCommerce -->
 
-Joomla · J2Commerce · OpenCart · WordPress · WooCommerce
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
+![J2Commerce](https://img.shields.io/badge/J2Commerce-2C3E50?style=flat)
+![OpenCart](https://img.shields.io/badge/OpenCart-23A8E0?style=flat&logo=opencart&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
 **Digital Platforms**
 
-SharePoint · Zendesk
+<!-- SharePoint · Zendesk -->
+
+![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
 
 **Design & AI Tools**
+<!-- Adobe Photoshop · Adobe Illustrator · ChatGPT · Microsoft CoPilot · Google Flow -->
 
-Adobe Photoshop · Adobe Illustrator · ChatGPT · Microsoft CoPilot · Google Flow
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat&logo=microsoftcopilot&logoColor=white)
+![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat&logo=google&logoColor=white)
 
 **Digital Practice**
+<!-- SEO · GEO · Web Accessibility · GitHub · cPanel -->
 
-SEO · GEO · Web Accessibility · GitHub · cPanel
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat)
+![GEO](https://img.shields.io/badge/GEO-6C5CE7?style=flat)
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 
 ## What I Enjoy Building
 
@@ -67,7 +89,9 @@ I particularly enjoy working on projects that are:
 * **Practical** – solutions are maintainable and designed to evolve
 
 ## Selected Projects
+
 🚧 **Projects Coming Soon**
+
 Selected projects and experiments will be added here as I build out this profile.
 
 <!-- 
