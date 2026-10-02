@@ -33,18 +33,23 @@ My work sits at the intersection of design, technology and user experience.
 ### A selection of technologies and tools I use across design, development and digital workflows.
 
 **Web & Front-end**
+
 HTML · CSS · JavaScript · Bootstrap
 
 **CMS & eCommerce**
+
 Joomla · J2Commerce · OpenCart · WordPress · WooCommerce
 
 **Digital Platforms**
+
 SharePoint · Zendesk
 
 **Design & AI Tools**
+
 Adobe Photoshop · Adobe Illustrator · ChatGPT · Microsoft CoPilot · Google Flow
 
 **Digital Practice**
+
 SEO · GEO · Web Accessibility · GitHub · cPanel
 
 ## What I Enjoy Building
@@ -64,6 +69,15 @@ I particularly enjoy working on projects that are:
 ## Selected Projects
 🚧 **Projects Coming Soon**
 Selected projects and experiments will be added here as I build out this profile.
+
+<!-- 
+### 🌐 Project Name
+Brief description of what the project does and your role.
+
+**Built with:** Joomla · Bootstrap · JavaScript
+
+[View Repository] · [View Website]
+-->
 
 ## Currently Exploring
 
