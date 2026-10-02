@@ -51,16 +51,17 @@ My work sits at the intersection of design, technology and user experience.
 
 **Digital Platforms**
 
-<!-- SharePoint · Zendesk -->
+<!-- Microsoft SharePoint · Zendesk -->
 
 ![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat&logo=microsoftsharepoint&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
 
-**Design & AI Tools**
-<!-- Adobe Photoshop · Adobe Illustrator · ChatGPT · Microsoft CoPilot · Google Flow -->
+**Design, Coding & AI Tools**
+<!-- Adobe Photoshop · Adobe Illustrator · Visual Studio Code · ChatGPT · Microsoft CoPilot · Google Flow -->
 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat&logo=microsoftcopilot&logoColor=white)
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat&logo=google&logoColor=white)
