@@ -29,24 +29,23 @@ My work sits at the intersection of design, technology and user experience.
 **Web & Front-end**
 <!-- HTML · CSS · JavaScript · Bootstrap -->
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML](https://badgen.net/badge/icon/HTML/555555?icon=html5&label&labelColor=E34F26)
+![CSS](https://badgen.net/badge/icon/CSS/555555?icon=html5&label&labelColor=663399)
+![JavaScript](https://badgen.net/badge/icon/JavaScript/555555?icon=javascript&label&labelColor=B88900)
+![Markdown](https://badgen.net/badge/icon/Markdown/555555?icon=markdown&label&labelColor=000000)
+![Bootstrap](https://badgen.net/badge/icon/Bootstrap/555555?icon=bootstrap&label&labelColor=7952B3)
+![PHP](https://badgen.net/badge/icon/PHP/555555?icon=php&label&labelColor=777BB4)
 
 **CMS & eCommerce**
 <!-- Joomla · J2Commerce · OpenCart · WordPress · WooCommerce -->
 
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
+![Joomla](https://badgen.net/badge/icon/Joomla/555555?icon=joomla&label&labelColor=5091CD)
+![WordPress](https://badgen.net/badge/icon/WordPress/555555?icon=wordpress&label&labelColor=21759B)
+![WooCommerce](https://badgen.net/badge/icon/WooCommerce/555555?icon=woo&label&labelColor=873EFF)
 ![J2Commerce](https://img.shields.io/badge/J2Commerce-2C3E50?style=flat)
 ![OpenCart](https://img.shields.io/badge/OpenCart-23A8E0?style=flat&logo=opencart&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-873EFF?style=flat&logo=woo&logoColor=white)
 
 **Digital Platforms**
-
 <!-- Microsoft SharePoint · Zendesk -->
 
 ![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat&logo=microsoftsharepoint&logoColor=white)
