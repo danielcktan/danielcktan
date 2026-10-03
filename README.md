@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I’m Daniel 👋
-### Web Designer & Front-end Developer
+### I am a Web Designer & Front-end Developer
 
 I enjoy turning ideas into modern, user-friendly and accessible websites.
 
